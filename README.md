@@ -21,7 +21,7 @@
 ![SygXnII9acbRb2J-j0VzhEGesxQ2AyeWzbKFi_Zotbhy5yE_fSz6dgJ_QTnUYaUgLenSu9jWWMqKX_I4VyMZIWUM](https://user-images.githubusercontent.com/101330984/173861025-b0284439-363d-4e48-a5b8-5aae0efdc284.jpg)
 В этом запросе выведем все значения из таблицы “priority” и отсортируем их по таблице ”count” в обратном порядке
 ![vNorQfOZuV8stqrL8VaPfbG-qXrc4B2HSo1SG9xTlIEFZ200VuB88V5ZNS96QWmhF1EqdU0LuBNQAvzehUi9viSU](https://user-images.githubusercontent.com/101330984/173861399-3d858a13-d139-4c7f-918a-5b3279430cb4.jpg)
-Запрос Drop Table удаляет таблицу “priority”
+Команда Drop Table удаляет таблицу “priority”
 ![NaauZSmLN4S1Sja5S6bV1DNgdZ7grPTX4uzdqw_yZ651Eg0ICKa8seqv4W3dv2fDQOjXhHFcfOcJ5iROOZ0AAVNv](https://user-images.githubusercontent.com/101330984/173861554-dd84abee-f54b-4a75-96ce-626e0d2e2824.jpg)
 ![toHx__Lb_1f-VtK-49WbuWkncrugAejMES-ZyCqaabJdpN252OqRfchlZKcj62Zk8W8GeyXOOCY7RhKEBc7b5w8w](https://user-images.githubusercontent.com/101330984/173861759-62e558ee-92c0-48f3-8768-22bda12457b9.jpg)
 
